@@ -1,6 +1,6 @@
 # Hello, World! :wave:
 
-Welcome to ALEZAN.AI's organization on GitHub where we love all things open source.
+Welcome to Alezan.ai's organization on GitHub where we love all things open source.
 
 ## By ALEZAN.AI's team
 
